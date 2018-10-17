@@ -1,0 +1,5 @@
+class SessionsTokensController <ApplicationController
+
+
+
+end 
